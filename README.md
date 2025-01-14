@@ -1,5 +1,5 @@
 # CALL CENTER DASHBOARD -- POWER BI
-Here’s a detailed explanation of the dashboard for your LinkedIn post:  
+![image](https://github.com/user-attachments/assets/011b7d73-fbe5-41ef-9e5d-c04278ef9832)
 
 ---
 
@@ -38,5 +38,4 @@ I’m looking forward to learning more and creating more advanced dashboards in 
 
 ---
 
-Is this detailed enough? Let me know if you'd like any changes!
 
